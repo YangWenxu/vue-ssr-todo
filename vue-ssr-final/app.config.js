@@ -1,7 +1,7 @@
 module.exports = {
   db: {
-    appId: 'A6063806368698',
-    appKey: '193E1039-3882-CA44-ADB7-E4D08C590A1E'
+    appId: 'A6049228787475',
+    appKey: 'F4822981-8189-1800-AF57-D37707E86470'
   },
   cdn: {
     host: 'http://p4t4vcu10.bkt.clouddn.com/',
